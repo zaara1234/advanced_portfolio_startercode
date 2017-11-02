@@ -1,5 +1,10 @@
 /* Nav Bar CSS */
-
+.my {
+    width:80%;
+    position:relative;
+    margin-left: 70%;
+    margin-bottom: 70%;
+}
 
 /* Header CSS */
 
